@@ -17,3 +17,26 @@ Urna id volutpat lacus laoreet non curabitur gravida arcu ac. Accumsan tortor po
 Ipsum dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Convallis a cras semper auctor. Congue eu consequat ac felis donec et odio. Maecenas ultricies mi eget mauris pharetra. Vel facilisis volutpat est velit egestas dui id ornare. Tempor nec feugiat nisl pretium fusce id velit ut tortor. Mattis vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. Lectus nulla at volutpat diam ut venenatis tellus in. Pellentesque massa placerat duis ultricies. Augue eget arcu dictum varius duis at consectetur lorem.
 
 Felis donec et odio pellentesque diam volutpat commodo. Donec massa sapien faucibus et. Ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae. A diam sollicitudin tempor id eu nisl. Orci nulla pellentesque dignissim enim sit amet venenatis urna cursus. Cursus turpis massa tincidunt dui. Luctus accumsan tortor posuere ac ut consequat semper viverra. Amet luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor. Leo vel fringilla est ullamcorper. Auctor elit sed vulputate mi sit amet mauris. Dolor sed viverra ipsum nunc aliquet bibendum enim facilisis.
+<!-- Photo Grid -->
+<div class="snippet__row">
+<div class="snippet__column">
+<img src="/assets/blog/img1.jpg" style="width:100%" alt="">
+<img src="/assets/blog/img2.jpg" style="width:100%" alt="">
+<img src="/assets/blog/img3.jpg" style="width:100%" alt="">
+</div>
+<div class="snippet__column">
+<img src="/assets/blog/img4.jpg" style="width:100%" alt="">
+<img src="/assets/blog/img5.jpg" style="width:100%" alt="">
+<img src="/assets/blog/img6.jpg" style="width:100%" alt="">
+</div>
+<div class="snippet__column">
+<img src="/assets/blog/img7.jpg" style="width:100%" alt="">
+<img src="/assets/blog/img8.jpg" style="width:100%" alt="">
+<img src="/assets/blog/img9.jpg" style="width:100%" alt="">
+</div>
+<div class="snippet__column">
+<img src="/assets/blog/img10.jpg" style="width:100%" alt="">
+<img src="/assets/blog/img11.jpg" style="width:100%" alt="">
+<img src="/assets/blog/img12.jpg" style="width:100%" alt="">
+</div>
+</div>
