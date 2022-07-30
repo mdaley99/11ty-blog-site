@@ -34,11 +34,6 @@ Amet est placerat in egestas erat imperdiet sed euismod. Elementum pulvinar etia
 <img src="/assets/blog/img8.jpg" style="width:100%" alt="">
 <img src="/assets/blog/img9.jpg" style="width:100%" alt="">
 </div>
-<div class="snippet__column">
-<img src="/assets/blog/img10.jpg" style="width:100%" alt="">
-<img src="/assets/blog/img11.jpg" style="width:100%" alt="">
-<img src="/assets/blog/img12.jpg" style="width:100%" alt="">
-</div>
 </div>
 
 Urna id volutpat lacus laoreet non curabitur gravida arcu ac. Accumsan tortor posuere ac ut consequat. Suspendisse sed nisi lacus sed viverra tellus. Amet nulla facilisi morbi tempus. Maecenas volutpat blandit aliquam etiam erat velit scelerisque in dictum. Maecenas accumsan lacus vel facilisis volutpat. Fringilla phasellus faucibus scelerisque eleifend. Enim neque volutpat ac tincidunt vitae semper quis. Id eu nisl nunc mi ipsum. Ligula ullamcorper malesuada proin libero nunc. Bibendum at varius vel pharetra vel turpis nunc eget.
