@@ -397,7 +397,7 @@ img {
   vertical-align: top;
 }
 
-.gallery {
+.gallery1 {
 	display: flex;
 	padding: 2px;
 	transition: .3s;
@@ -417,11 +417,11 @@ img {
 		overflow: hidden;
 		
 		&:hover {
-			.gallery__image {
+			.gallery1__image {
 				filter: grayscale(0);
 			}
 			
-			.gallery__caption {
+			.gallery1__caption {
 				opacity: 1;
 			}
 		}
