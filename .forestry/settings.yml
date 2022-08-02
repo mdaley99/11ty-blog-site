@@ -15,5 +15,4 @@ build:
   preview_docker_image: forestryio/node:12
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: npm run clean && npm run mkdir && npm run build:html &&
-    npm run build:css && npm run build:js
+  instant_preview_command: npm start
