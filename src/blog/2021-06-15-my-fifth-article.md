@@ -6,8 +6,8 @@ date: 2021-06-15
 tags:
   - post
   - featured
-image: /assets/blog/article-5.jpg
-imageAlt: This is a test
+image: /assets/blog/quebec1759-map.jpg
+imageAlt: Quebec 1759 Map
 ---
 I was 9 when my Dad's youngest Brother returned from Princeton to visit us at Christmas. He arrived with a wrapped box. His contribution to the gifts under the tree was a new game. The game had no board or playing pieces. There was a rules book and a folio booklet. It had funny dice which I stared at. What are these for? They help play the game. We found some graph paper. He sat my Dad and me down at the dining room table to teach us this new game. Everyone at Princeton in 1979 was playing this game he explained. Welcome to the Borderlands. Welcome to Dungeons and Dragons. That was over 40 years ago.
 
