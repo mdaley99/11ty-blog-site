@@ -1,10 +1,7 @@
 ---
-title: My Fifth Article
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae
-  delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio
-  aliquam?
-author: Kevin Powell
+title: Introduction
+description: It all started in 1979
+author: Mark Daley
 date: 2021-06-15
 tags:
   - post
@@ -12,10 +9,11 @@ tags:
 image: /assets/blog/article-5.jpg
 imageAlt: This is a test
 ---
+I was 9 when my Dad's youngest Brother returned from Princeton to visit us at Christmas. He arrived with a wrapped box. His contribution to the gifts under the tree was a new game. The game had no board or playing pieces. There was a rules book and a folio booklet. It had funny dice which I stared at. What are these for? They help play the game. We found some graph paper. He sat my Dad and me down at the dining room table to teach us this new game. Everyone at Princeton in 1979 was playing this game he explained. Welcome to the Borderlands. Welcome to Dungeons and Dragons. That was over 40 years ago.
 
-<a href="..\..\flipbook\1918\flipbook\pdf\1918-rules.pdf" target="_blank"><img src="..\..\flipbook\1918\data\1-thumb.jpg" width="310px"></a>
+I had my own set of games like every kid had. A copy of Payday, Monopoly, Battleship and kerplunk. But 1979 was an awakening. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id leo in vitae turpis massa. Amet tellus cras adipiscing enim eu turpis egestas pretium aenean. Ornare aenean euismod elementum nisi quis eleifend. Amet tellus cras adipiscing enim eu turpis. Nisi vitae suscipit tellus mauris. Mauris in aliquam sem fringilla ut morbi tincidunt augue. Mi eget mauris pharetra et. Et tortor at risus viverra. Id eu nisl nunc mi ipsum faucibus vitae. Malesuada nunc vel risus commodo viverra maecenas. Et netus et malesuada fames ac turpis egestas sed. Massa vitae tortor condimentum lacinia quis. Eu augue ut lectus arcu bibendum at varius. Enim nec dui nunc mattis enim ut tellus elementum sagittis. In fermentum et sollicitudin ac orci. Nec sagittis aliquam malesuada bibendum arcu vitae elementum. Et ligula ullamcorper malesuada proin libero nunc consequat interdum varius. Id porta nibh venenatis cras sed felis eget velit. In hac habitasse platea dictumst. <p>Amet est placerat in egestas erat imperdiet sed euismod. Elementum pulvinar etiam non quam. Pharetra convallis posuere morbi leo urna molestie. Varius duis at consectetur lorem donec massa. Id semper risus in hendrerit gravida rutrum quisque. Adipiscing elit pellentesque habitant morbi tristique senectus. Tortor pretium viverra suspendisse potenti. Aenean et tortor at risus viverra adipiscing at in. Venenatis lectus magna fringilla urna porttitor rhoncus dolor. Eu augue ut lectus arcu bibendum at varius vel pharetra. Facilisis magna etiam tempor orci eu. Habitant morbi tristique senectus et. Eu facilisis sed odio morbi quis commodo. Ultrices tincidunt arcu non sodales neque sodales ut etiam sit. Nulla posuere sollicitudin aliquam ultrices sagittis. At imperdiet dui accumsan sit amet nulla. Nec feugiat in fermentum posuere urna nec tincidunt praesent semper. Tortor id aliquet lectus proin nibh. Tellus at urna condimentum mattis.
+I was also introduced too a couple of games Dad had in his collection. Quebec 1759 and War of 1812. Both games were block games. Her also had Avalon Hill's Afrika Korps..
 
 <!-- Photo Grid1 -->
 
