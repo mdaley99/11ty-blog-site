@@ -14,7 +14,7 @@ I was 9 when my Dad's youngest Brother returned from Princeton to visit us at Ch
 <div class="snippet__row">
 <div class="snippet__column">
 <img src="/assets/blog/dnd-basic-box-cover.png" style="width=50%">
-<img src="/assets/blog/dnd-basic-rules-cover" style="width=50%">
+<img src="/assets/blog/dnd-basic-rules-cover.png" style="width=50%">
 <img src="/assets/blog/dnd-Basic-Module-B1-Cover.png" style="width=50%">
 </div>
 </div>
