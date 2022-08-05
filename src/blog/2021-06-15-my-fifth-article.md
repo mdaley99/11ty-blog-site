@@ -11,6 +11,14 @@ imageAlt: Quebec 1759 Map
 ---
 I was 9 when my Dad's youngest Brother returned from Princeton to visit us at Christmas. He arrived with a wrapped box. His contribution to the gifts under the tree was a new game. The game had no board or playing pieces. There was a rules book and a folio booklet. It had funny dice which I stared at. What are these for? They help play the game. We found some graph paper. He sat my Dad and me down at the dining room table to teach us this new game. Everyone at Princeton in 1979 was playing this game he explained. Welcome to the Borderlands. Welcome to Dungeons and Dragons. That was over 40 years ago.
 
+<div class="snippet__row">
+<div class="snippet__column">
+<img src="/assets/blog/dnd-basic-box-cover.png" style="width=50%">
+<img src="/assets/blog/dnd-basic-rules-cover" style="width=50%">
+<img src="/assets/blog/dnd-Basic-Module-B1-Cover.png" style="width=50%">
+</div>
+</div>
+
 I had my own set of games like every kid had. A copy of Payday, Monopoly, Battleship and kerplunk. But 1979 was an awakening. 
 
 I was also introduced too a couple of games Dad had in his collection. Quebec 1759 and War of 1812. Both games were block games. Her also had Avalon Hill's Afrika Korps..
