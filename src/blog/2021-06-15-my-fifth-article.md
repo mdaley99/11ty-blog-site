@@ -1,6 +1,6 @@
 ---
-title: Introduction
-description: It all started in 1979
+title: Storyteller
+description: My story begins in 1979
 author: Mark Daley
 date: 2021-06-15
 tags:
