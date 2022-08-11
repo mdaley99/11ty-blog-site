@@ -20,5 +20,8 @@
   "homepage": "https://github.com/mdaley99/11ty-blog-site#readme",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.1"
+  },
+  "dependencies": {
+    "eleventy-plugin-typeset": "^1.0.0"
   }
 }
